@@ -1,0 +1,45 @@
+"Für eine negative Meinung, schreib N , für eine positive Meinung, schreib P , für eine positive und negative Meinung, schreib P + N.","For a negative opinion, write N , for a positive opinion, write P , for a positive and negative opinion, write P + N.
+Beschreib...,Describe...
+Schreib...,Write...
+Schreib etwas über...,Write something about...
+da,"as, because"
+entweder ... oder ...,either ... or ...
+obwohl,although
+um ... zu,(in order) to
+danach,afterwards
+natürlich,"of course, naturally"
+hinter,behind
+über,"over, above"
+unter,"under, below"
+nichts,nothing
+nie,never
+Paar das,pair
+Taschengeld das,pocket money
+Wann?,When?
+Warum?,Why?
+Was?,What?
+Wo?,Where?
+Viel Glück!,Good luck
+Ahnung die,"idea, suspicion"
+blöd,stupid
+denken,to think
+doof,stupid
+keine Ahnung haben,to have no idea/no clue
+langweilen (sich),to be bored
+lieben,to love
+lustig,funny
+Meinung die,opinion
+nützlich,useful
+schwierig,difficult
+sicher,"sure, safe"
+teuer,"expensive, dear"
+wichtig,important
+wirklich,real(ly)
+wunderbar,wonderful
+Jahr das,year
+Monat der,month
+genau,exactly
+halb,half
+Mittag der,midday
+Mitternacht die,midnight
+pünktlich,"punctual, on time"
