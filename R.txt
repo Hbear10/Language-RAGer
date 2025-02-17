@@ -9,13 +9,13 @@ Schreib den richtigen Buchstaben ins Kästchen.,Write the correct letter in the 
 Vollständige Sätze sind nicht nötig.,It is not necessary to write in full sentences
 Wähle die richtige Aktivität und schreib den Buchstaben ins Kästchen.,Choose the correct activity and write the correct letter in the box
 Vergleich...,Compare...
-�hnlich,similar
+ähnlich,similar
 anders,different(ly)
 Gegenteil das,opposite
-hoch; h�her; h�chst,high; higher; highest
-im Gro�en und Ganzen,by and large
-so � wie,as � as
-so viel(e) � wie,as much/many � as
+hoch; höher; höchst,high; higher; highest
+im Großen und Ganzen,by and large
+so ... wie,as ... as
+so viel(e) ... wie,as much/many ... as
 Unterschied der,difference
 unterschiedlich,different
 vergleichen,to compare
@@ -115,3 +115,758 @@ spät,late
 Stunde die,hour (length)
 vorgehen,to be fast
 Wie spät ist es?,What time is it?
+Anfang der,"beginning, start"
+Augenblick der,"moment, instant"
+aus sein,"to be over, finished"
+bald,soon
+ehemalig,former
+fast,"almost, nearly"
+früh,early
+Gegenwart die,"present (time, tense)"
+gerade,just
+gewöhnlich,"usually, normally"
+gleich,"immediately, in a minute"
+im Voraus,in advance
+immer wieder,again and again
+inzwischen,in the meantime
+kürzlich,"recently, lately"
+langsam,slow(ly)
+~mal,~ times
+noch einmal,"once again, once more"
+nun,now
+plötzlich,suddenly
+selten,"seldom, rarely"
+sofort,"immediately, straight away"
+übermorgen,the day after tomorrow
+Vergangenheit die,"past (time, tense)"
+(bis) vor kurzem,(until) recently
+vorgestern,the day before yesterday
+vorher,before(hand)
+Vormittag der,morning
+wieder,again
+bleiben,to stay
+drüben,over there
+entfernt,"distant, (far) away"
+geradeaus,straight ahead
+her~,from ~ (towards the speaker)
+hin und her,to and fro
+hin und zurück,"there and back, return (ticket)"
+hin~,away ~ (from the speaker)
+liegen,"to lie, to be situated (in)"
+Ort der,place
+Seite die,side
+unten,"at the bottom, below, down"
+alle sein,"to be all gone, to have run out (of)"
+dünn,thin
+einzeln,single
+etwa,"about, roughly"
+Flasche die,bottle
+ganz,"whole, complete, quite"
+genug,enough
+gewaltig,enormously
+Gewicht das,weight
+irgend…,some…
+Kasten der,"box, case, crate"
+kaum,hardly
+leer,empty
+Maß das,measure
+messen,to measure
+mindestens,at least
+noch,still
+Packung die,"packet, pack"
+Paket das,parcel
+Pfund das,pound
+pro,per
+Schachtel die,"box, packet"
+Scheibe die,slice
+schwer,heavy
+Tüte die,bag
+ungefähr,about
+voll,full
+wenig,"little, not much"
+wiegen,to weigh
+viereckig,square
+bedeckt,"overcast, cloudy"
+Blitz der,lightning
+Donner der,thunder
+es hagelt,it’s hailing
+feucht,damp
+Gewitter das,thunderstorm
+Grad der,degree
+Hagel der,hail
+heiter,"bright, fine, clear, fair"
+Himmel der,sky
+Mond der,moon
+nass,wet
+Nebel der,fog
+nebelig,foggy
+Niederschlag der,precipitation
+Schatten der,shadow
+Schauer der,shower
+scheinen,shine
+schneien,to snow
+Sturm der,storm
+stürmisch,stormy
+trocken,dry
+Wetterbericht der,weather report
+Wettervorhersage die,weather forecast
+Wolke die,cloud
+wolkig,cloudy
+auf sein,to be open
+aufmachen,to open
+Ausfahrt die,exit (motorway)
+Ausgang der,exit (building)
+besetzt,"occupied, engaged"
+Einfahrt die,"entry, entrance"
+Eintritt der,admission
+geschlossen,closed
+öffnen,to open
+schließen,to close
+verboten,forbidden
+zu sein,to be closed
+zumachen,to close
+Fehler der,"mistake, error"
+verbessern,"to correct, to improve"
+Verbesserung die,"correction, improvement"
+Baumwolle die,cotton
+bestehen aus,"to consist of, to be made of/from"
+Eisen das,iron
+Seide die,silk
+"AG = Arbeitsgruppe, Arbeitsgemeinschaft","work group (extra-curricular, school)"
+d.h. = das heißt,ie = that is
+ICE = Inter-City-Express der,fast long-distance train
+inkl. = inklusive,included
+PLZ = Postleitzahl die,postcode
+usw. = und so weiter,etc = and so on
+z.B. = zum Beispiel,eg = for example
+allein,alone
+Ausweis der,identity card
+bevorzugen,"to favour, to prefer"
+bitten,"to ask, to beg"
+Brieffreund der,pen-friend
+Brille die,"spectacles, glasses"
+egoistisch,selfish
+erlauben,to allow
+ernst,serious
+Erwachsene der/die,"adult, grown-up"
+frech,cheeky
+Geburtsort der,place of birth
+geduldig,patient
+Gefühl das,feeling
+Geschlecht das,"sex, gender"
+getrennt,separated
+glatt,"straight, smooth"
+höflich,polite
+ich kann ... gut leiden,I like ... (very much)
+ich kann ... nicht leiden,I can’t stand .../I don’t like ...
+kümmern (sich um),to look after
+Kuss der,kiss
+küssen,to kiss
+lockig,curly
+Mensch der,human being
+nennen,"to name, to call"
+Reisepass der,passport
+ruhig,"quiet, calm"
+schämen (sich),to be/feel ashamed
+Schnurrbart der,moustache
+schüchtern,shy
+sorgen (für),"to care (for), to look after"
+still,quiet
+Tätowierung die,tattoo
+unterstützen,to support
+vergeben,to forgive
+verlobt,engaged (to someone)
+verstehen (sich mit),to get on with
+weinen,to cry
+witzig,funny
+Wohnort der,place of living
+Zahn der,tooth
+Zwillinge (pl),twins
+(aus) drucken,to print (out)
+Anrufbeantworter der,(telephone) answering machine
+anrufen,"to call, to ring (phone)"
+Bindestrich der,"dash, hyphen"
+Drucker der,printer
+eingeben,to enter (data into computer/phone)
+empfangen,to receive
+entwickeln,to develop
+Entwicklung die,development
+herunterladen,download
+hochladen,upload
+lehrreich,"informative, instructive, educational"
+löschen,to delete
+Nachrichten (pl),messages
+Postfach das,mail box (email)
+Rechner der,calculator (phone)
+Schrägstrich der,forward slash
+simsen,to send an SMS/text message
+speichern,to save (data on computer)
+Startseite die,homepage (internet)
+Unterstrich der,underscore
+anfangen,"to start, begin"
+angeln,to fish
+"Bedienung, bitte!","Service, please!"
+beschweren (sich),to complain
+bestellen,to order
+bezahlen,to pay
+Bildschirm der,"screen (TV, computer)"
+Birne die,pear
+Blumenkohl der,cauliflower
+Bohne die,bean
+Braten der,"roast meat, joint"
+drücken,press
+Eintrittsgeld das,admission fee
+Eintrittskarte die,(admission) ticket
+Eisdiele die,ice cream parlour
+Eislaufen das,ice-skating
+empfehlen,to recommend
+Erbse die,pea
+Essig der,vinegar
+Freibad das,outdoor swimming pool
+Gasthaus das,"inn, pub"
+Gurke die,cucumber
+Haferflocken (pl),(porridge) oats
+Herr Ober!,Waiter!
+Imbissbude die,"snack bar, takeaway"
+Imbissstand der,"snack bar, takeaway"
+Kännchen das,"pot (tea, coffee)"
+Korbball der,netball
+köstlich,delicious
+Kotelett das,pork chop
+Krimi der,"crime (film/book), thriller"
+laufen,to run
+Lied das,song
+Nachrichten (pl),news
+Nachspeise die,dessert
+Nachtisch der,dessert
+Öl das,oil
+Pfeffer der,pepper
+Pfirsich der,peach
+Pflaume die,plum
+Pilz der,mushroom
+probieren,"to try, to taste"
+ringen,to wrestle
+rodeln,to go sledging
+roh,raw
+Rollschuh laufen,to go roller skating
+rudern,to row
+satt sein,"to be full up, have had enough (to eat)"
+Schaschlik das,kebab
+schießen,to shoot
+Schnellimbiss der,snack bar
+Segelboot das,sailing boat
+segeln,to sail
+Seifenoper die,soap opera
+Selbstbedienung die,self-service
+Sendung die,programme
+Senf der,mustard
+Serie die,series
+Sitz(platz) der,seat
+sitzen,to sit
+Spielzeug das,toy(s)
+Sportart die,type of sport
+Stimme die,voice
+stricken,to knit
+Tagesgericht das,dish of the day
+Tagesmenü das,menu of the day
+Thunfisch der,tuna
+Tor das,goal
+Torte die,gateau
+Trainingsanzug der,track suit
+Trinkgeld das,tip (for waiter/waitress)
+turnen,to do gymnastics
+unterhalten (sich),to have a chat
+vorschlagen,to suggest
+Vorstellung die,"showing, performance"
+weich,soft
+Weintraube die,grape
+Werbung die,advert(isement)
+werfen,to throw
+Wettbewerb der,competition
+zahlen,to pay
+Zitrone die,lemon
+Zucker der,sugar
+Zuschauer der,"spectator, member of the audience"
+Zwiebel die,onion
+Adventskranz der,advent wreath
+anzünden,to light
+einladen,to invite
+Einladung die,invitation
+Gast der,guest
+Gastgeber der,host
+Heilige Drei Könige (6 Jan),Epiphany
+kirchlich,religious
+Lebkuchen der,type of gingerbread
+Osterhase der,Easter bunny
+Pfingsten,Whitsuntide
+verstecken,to hide
+Ampel die,traffic light
+Angebot das,offer
+anmachen,to turn/switch on
+anprobieren,to try on (clothes)
+Apparat der,"apparatus, appliance, gadget"
+aufräumen,to tidy (up)
+ausmachen,to turn/switch off
+Benzin das,petrol
+Bild das,picture
+Blume die,flower
+braten,to fry
+Brücke die,bridge
+Bücherei die,library
+Diele die,hall
+Dom der,cathedral
+eigen,own
+Einkaufskorb der,shopping basket
+Einkaufstasche die,shopping bag
+Einkaufswagen der,shopping trolley
+einpacken,to wrap (up)
+Erdgeschoss das,ground floor
+Etage die,"floor, storey"
+Etagenbett das,bunk bed
+flach,flat
+Flur der,"hall, coridor"
+Fluss der,river
+Fußboden der,floor
+Gabel die,fork
+Gasherd der,gas cooker
+günstig,"reasonable, good value for money"
+Hecke die,hedge
+Herd der,"cooker, stove"
+Hügel der,hill
+Insel die,island
+Kasse die,"till, cash point"
+klingeln,to ring (bell)
+klopfen,to knock (door)
+Kochfeld das,hob
+Kommode die,chest of drawers
+leeren,to empty
+legen,"to lay, to put, to place (down)"
+liefern,to deliver
+mähen,to mow
+Mahlzeit die,"meal, meal time"
+Messer das,knife
+Miete die,rent
+mieten,"to rent, to hire"
+Möbel (pl),furniture
+Mofa das,(motorised) bicycle
+nach Hause,(going) home
+nach oben,upstairs
+nach unten,downstairs
+Nachttisch der,bedside cabinet
+Notausgang der,emergency exit
+Ordnung die,order
+Plakat das,"poster, billboard"
+putzen,to clean
+Quittung die,receipt
+Rasen der,lawn
+Regal das,shelf
+Reihenhaus das,terraced house
+Reinigung die,dry cleaner's
+Rolltreppe die,escalator
+sauber machen,to clean
+Schaufenster das,shop window
+Schlange stehen,to queue
+Schlüssel der,key
+Schreibwarengeschäft das,stationery shop
+Schublade die,drawer
+Sonderangebot das,special offer
+Sonst noch etwas?,Anything else?
+Spiegel der,mirror
+Spielplatz der,play ground
+stecken,to put (something into)
+stellen,"to put, to place (upright)"
+tanken,to fill up with petrol/diesel
+Tankstelle die,petrol station
+Tasse die,cup
+Teller der,plate
+Teppich der,carpet
+Tischdecke die,table cloth
+Topf der,pan
+Treppe die,stairs
+umgeben von,surrounded by
+Umgebung die,surrounding area
+umziehen,to move (house)
+Vorhang der,curtain
+Wiese die,meadow
+Wintergarten der,conservatory
+Zebrastreifen der,zebra crossing
+abhängig sein von,to be dependent on
+Ader die,vein
+aufhören,to stop
+Bewegung die,movement; exercise
+bewusstlos,unconscious
+Bewusstsein das,consciousness
+Bio~,"biological ~, organic"
+Blut das,blood
+brechen,to be sick; to break
+Einwanderer der,immigrant
+Ernährung die,"food, nourishment, nutrition"
+Erste Hilfe,First Aid
+gebrochen,broken
+Gewicht das,weight
+Gleichheit die,equality
+halten,"to hold, to keep"
+Hautfarbe die,colour of the skin
+in Form sein,to be in form/in (good) shape
+Magen der,stomach
+Medikament das,medicine
+menschlich,"human, humane"
+Rasse die,race
+Rassismus der,racism
+rassistisch,racist
+Ruhe die,"peace, quiet, tranquillity"
+schädlich,"damaging, harmful"
+Schmerz der,"pain, ache"
+…schmerzen haben,to have …ache
+Sorge die,worry
+sorgen für,"to care for, to look after"
+Spritze die,"syringe, injection"
+spritzen,to inject
+Sucht die,addiction
+süchtig,"addicted, addictive"
+übel (mir ist),"I feel ill, sick"
+Unfall der,accident
+Vene die,vein
+verletzen (sich),to be/get injured
+Verletzung die,injury
+weh tun,to hurt
+Wohltätigkeit die,charity
+Wohltätigkeitskonzert das,charity concert
+Wohltätigkeitsveranstaltung die,charity event
+Abfalleimer der,"rubbish bin, litter bin"
+Achtung die,"respect, esteem"
+anbauen,to grow
+Benzin das,petrol
+Bettler der,beggar
+bleifrei,lead free
+brauchen,to need
+Dieb der,thief
+Diskriminierung die,discrimination
+einsam,lonely
+entsorgen,"to dispose of (waste, refuse, sewage)"
+Gebrauch der,usage
+Gewalt die,violence
+gewalttätig,violent
+im Freien,outside
+Krieg der,war
+Kunststoff der,man-made/synthetic material
+Lärm der,noise
+Mülltonne die,dustbin
+Not die,need
+Opfer das,victim
+Ozonloch das,hole in the ozone layer
+Ozonschicht die,ozone layer
+Pfand das,deposit
+reinigen,to clean
+Sauerstoff der,oxygen
+saure Regen der,acid rain
+schaden,"to damage, to harm"
+Schaden der,damage
+schädlich,harmful
+Schale die,"skin (fruit), peel (potato), shell (egg)"
+schwach,weak
+Solarzelle die,solar cell
+Spraydose die,aerosol
+Treibhauseffekt der,greenhouse effect
+ultraviolette Strahlen (pl),ultra-violet rays
+Umfrage die,"survey, opinion poll"
+Verbrechen das,crime
+Verbrecher der,criminal
+verschwinden,to disappear
+vertreiben,"to drive out, to expel"
+Wasserkraft die,hydroelectric power
+wegwerfen,to throw away
+zerstören,to destroy
+ausfüllen,to fill in
+Aussicht die,view
+aussteigen,"to alight, get off (bus)"
+Bahnsteig der,platform
+beliebt,popular
+Blick der,"view, glance"
+Briefmarke die,postage stamp
+Burg die,(fortified) castle
+Donau die,Danube
+einsteigen,to get in/on
+entwerten,to stamp/validate a ticket
+Erinnerung die,memory
+Ermäßigung die,reduction
+Fähre die,ferry
+Fahrkartenautomat der,ticket machine
+Fahrkartenschalter der,ticket office
+Fahrradvermietung die,bicycle hire
+Fahrt die,journey
+Gleis das,"track, platform"
+Griechenland,Greece
+herumfahren,to travel around
+Jugendherberge die,youth hostel
+Koffer der,suitcase
+Köln,Cologne
+Notausgang der,emergency exit
+Öffnungszeiten (pl),opening times
+örtlich,local
+Ostsee die,Baltic Sea
+Panne die,"breakdown, puncture, flat tyre"
+Pension die,(small) hotel
+Reisebüro das,travel agency
+Reisescheck der,traveller’s cheque
+Reisetasche die,travel bag
+Reiseziel das,destination
+Rhein der,Rhine
+Richtung die,direction
+Rundfahrt die,"round trip, tour"
+Schließfach das,locker
+See der,lake
+Sicherheitsgurt der,"safety belt, seat belt"
+Stadtbummel der,stroll through town; window shopping
+Stadtrundfahrt die,sightseeing tour of a town/city
+Stau der,traffic jam
+Straßenkarte die,road map
+suchen,"to look for, search"
+Überfahrt die,crossing (sea)
+überqueren,"to cross (road, sea)"
+umsteigen,to change (means of transport)
+unterwegs,on the way
+verbringen,to spend (time)
+verpassen,to miss
+Verspätung die,delay
+Wartesaal der,waiting room (eg station)
+weg,away
+weggehen,"to leave, to go away"
+weiterfahren,to travel on
+wieder,again
+Zelt das,tent
+zelten,to camp
+gerecht,"fair, just"
+klug,"clever, intelligent"
+Stunde die,lesson
+ungerecht,unfair
+5 = mangelhaft,"poor, unsatisfactory, fail"
+6 = ungenügend,"extremely poor, inadequate"
+Abschlusszeugnis das,school leaving certificate
+Anspitzer der,pencil sharpener
+Antwort die,answer
+antworten,to answer
+anziehen (sich),to get dressed
+aufpassen,to pay attention
+aufstehen,to get up
+aufwachen,to wake up
+Aula die,(assembly) hall
+Austausch der,exchange
+Auswahl die,choice
+ausziehen (sich),to get undressed
+bestehen,to pass (exam/test)
+blau machen,"to skip work, to play truant"
+dauern,to last
+erzählen,"to tell, to narrate"
+fehlen,"to be missing, absent"
+Ferien (pl),holidays
+Ganztagsschule die,school that lasts all day
+Gesamtschule die,comprehensive school
+gründen,to found
+Hausmeister der,caretaker
+Hemd das,shirt
+Hose die,trousers
+Internat das,boarding school
+Klassenfahrt die,school trip
+Kleid das,dress
+korrigieren,to correct
+Kreide die,chalk
+Lineal das,ruler
+malen,to paint
+mündlich,orally
+nachsitzen,to have a detention
+plaudern,"to chat, to talk"
+rechnen,"to calculate, to do sums"
+Rock der,skirt
+schaffen,"to manage, to cope; to create"
+Schal der,scarf
+schminken (sich),to put on make-up
+schriftlich,written
+Schulhof der,"school yard, playground"
+schwatzen/schwätzen,to chatter
+Seite die,page
+setzen (sich),to sit down
+sitzen bleiben,to repeat a school year
+Stundenplan der,timetable
+Tafel die,black/white board
+üben,to practise
+Übung die,exercise
+Umkleideraum der,changing room
+umziehen (sich),"to get changed, change clothes"
+verlassen,to leave
+Versammlung die,assembly
+verstehen,to understand
+versuchen,to try
+wählen,to choose
+wiederholen,to repeat
+wissen,to know
+Wörterbuch das,dictionary
+Zahnbürste die,toothbrush
+Zahnpasta die,toothpaste
+zeichnen,to draw
+Zeugnis das,school report
+Ausbildungsplatz der,vacancy/place for a trainee
+bewerben (sich um),to apply for
+Bewerbung die,application
+entscheiden (sich),to decide
+Erfahrung die,experience
+Führerschein der,driving licence
+Gelegenheit die,opportunity
+Lebenslauf der,curriculum vitae (CV)
+Lehre die,apprenticeship
+verdienen,to earn
+Alleinerziehende der/die,single parent
+alleinstehend,single
+Angeber der,"show off, poser"
+aufpassen (auf),to look after
+ausgeglichen,balanced
+eifersüchtig,jealous
+eingebildet,conceited
+Enkel der,grandson
+Enkelin die,granddaughter
+gleichgeschlechtliche Ehe/Partnerschaft die,same-sex marriage/partnership
+großzügig,generous
+Junggeselle der,bachelor
+minderjährig,"(to be a) minor, under legal age"
+Neffe der,nephew
+Nichte die,niece
+Schwager der,brother-in-law
+Schwägerin die,sister-in-law
+Schwieger~,~ in-law
+selbstbewusst,"self-confident, self-assured"
+Trauung die,wedding (ceremony)
+treu,"faithful, loyal"
+Verlobte der/die,fiancé(e)
+verrückt,crazy
+verzeihen,to forgive
+volljährig,(to be) of age
+Vorwahl(nummer) die,long distance code (telephone)
+zurechtkommen mit,to cope with
+zuverlässig,reliable
+zweifeln,to doubt
+Betriebssystem das,operating system
+aufnehmen,to record
+aufregend,exciting
+Dirigent der,conductor
+Ente die,duck
+Ergebnis das,result
+Flachbildschirm der,flat screen TV
+Forelle die,trout
+Gans die,goose
+geräuchert,smoked
+Halbfettmilch die,semi-skimmed milk
+Kalbfleisch das,veal
+Knoblauch der,garlic
+Lachs der,salmon
+Lamm(fleisch) das,lamb
+Mehl das,flour
+Querflöte die,flute
+Rennen das,race
+Rindfleisch das,beef
+Rührei das,scrambled egg(s)
+Schlittschuh laufen,ice skating
+schmackhaft,tasty
+Schweinefleisch das,pork
+Spiegelei das,fried egg
+Sprudel(wasser) der (das),fizzy mineral water
+Truthahn der,turkey
+Untertitel der,subtitle
+Verein der,club
+Vergnügen das,"fun, enjoyment"
+Vollmilch die,full fat milk
+ausschalten,to switch off
+Besteck das,cutlery
+Brunnen der,well
+Einbahnstraße die,one way street
+einschalten,to switch on
+Essecke die,eating area (eg in the kitchen)
+Fahrschein der,ticket (public transport)
+Gerät das,appliance
+geräumig,"roomy, spacious"
+Geschirr das,crockery
+Mehrfamilienhaus das,house for several families (three to six storeys)
+Möbelstück das,piece of furniture
+~möglichkeiten,~ possibilities
+pleite (sein),to be skint
+Stockwerk das,"floor, storey"
+Strom der,electricity
+Tiefkühltruhe die,chest freezer
+Treppenhaus das,staircase
+umsonst,free of charge; in vain
+Umzug der,"move, moving (house)"
+Wolkenkratzer der,sky-scraper
+Atembeschwerden (pl),breathing difficulties
+Bedürftige der/die,somebody in need
+begehen,"to commit, to perpetrate"
+benachteiligen,to disadvantage
+bewegen (sich),to move; to get/take some exercise
+ehrenamtlich,"honorary, voluntarily"
+ein Mittel gegen …,"something, a medicine for …"
+Eingliederung die,integration
+einnehmen,to take (in)
+erbrechen (sich),to be sick
+fettarm,low in fat
+Gehirn das,brain
+lebendig,alive
+magersüchtig,anorexic
+Mindesthaltbarkeitsdatum das,best before date
+Nahrung die,"food, nourishment"
+Rassenvorurteile (pl),racial prejudice
+Raucherhusten der,smoker’s cough
+Rauschgift das,"drug, narcotic"
+schaden,"to damage, to harm"
+Straftat die,"criminal offence, act"
+übergewichtig,overweight
+vermeiden,to avoid
+bedürftig,needy
+Düngemittel das,fertiliser
+Einwegflasche die,non-recyclable bottle
+Gleichheit die,equality
+Müllentsorgung die,waste disposal
+Not die,need
+überschreiten,to exceed
+verpesten,to pollute
+verwenden,to use
+wiederverwerten,to recycle
+Wiederverwertung die,recycling
+ansehen (sich etwas),to have a look at something
+Ärmelkanal der,(English) Channel
+Aufenthalt der,stay
+Auskunft die,information
+Autovermietung die,car rental (firm)
+beeilen (sich),to hurry
+begleiten,to accompany
+bestätigen,to confirm
+Bodensee der,Lake Constance
+Dampfer der,steam boat
+Empfang der,"welcoming, reception (hotel)"
+erinnern (sich),to remember
+Gepäckaufbewahrung die,"place where one can leave luggage for payment (station, airport)"
+Klimaanlage die,air conditioning
+Prospekt der,"brochure, leaflet"
+Strandkorb der,wicker beach chair
+Verbindung die,connection
+Verkehrsamt das,tourist information office
+wegen Betriebsferien (pl) geschlossen,(firm/shop/attraction) closed because of holiday
+Zoll der,customs
+Zuschlag der,"extra charge, surcharge"
+abschreiben,to copy
+anwesend,present
+Aussprache die,pronunciation
+durchfallen,to fail (exam/test)
+Ergebnis das,"result, outcome"
+Leistungsdruck der,pressure to achieve
+Patrone die,cartridge
+Schere die,scissors
+schwänzen,to play truant
+Strafarbeit die,"punishment, lines"
+versetzt werden,to be moved up to the next year group
+einstellen,to employ
+Fachschule die,technical college
+Hauswirtschaftslehre die,home economics
+Pflichtfach das,compulsory subject
+Sozialkunde die,"social studies, politics"
+Wirtschaftslehre die,"business studies, economics"
+Betrieb der,"business, concern, works"
+kündigen,to hand in one's notice; to sack someone
+vereinbaren,"to agree, to arrange

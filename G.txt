@@ -43,3 +43,279 @@ halb,half
 Mittag der,midday
 Mitternacht die,midnight
 pünktlich,"punctual, on time"
+Zeit die,time
+Abend der,evening
+abends,in the evenings
+Datum das,date
+gestern,yesterday
+heute,today
+heutzutage,"nowadays, these days"
+immer,always
+Jahrhundert das,century
+jetzt,now
+letzter/letzte/letztes,last
+montags,on Mondays
+morgen,tomorrow
+Morgen der,morning
+morgens,"in the mornings, every morning"
+nächster/nächste/nächstes,next
+Nacht die,night
+nachts,at night
+neulich,"recently, the other day"
+normalerweise,"normally, usually"
+schnell,quick(ly)
+täglich,daily
+Zeitpunkt der,point in time
+Zukunft die,"future (time, tense)"
+draußen,"outside, outdoors"
+drinnen,"inside, indoors"
+Ecke die,corner
+in der Nähe von,"nearby, close to"
+mitten in,in the middle of
+weit,"wide, far"
+"alle (-r, -s)","all, all the"
+beide,both
+dick,"thick, fat"
+Ding das,thing
+ein bisschen,a little
+ein paar,"a few, a couple"
+eine Menge,"a lot of, lots"
+leicht,light
+mehrere,several
+frieren,to freeze
+frisch,fresh
+Klima das,climate
+kühl,cool
+Regen der,rain
+regnen,to rain
+frei,free
+falsch,"false, wrong, incorrect"
+Recht haben,to be right
+richtig,"right, correct"
+Holz das,wood
+DB = Deutsche Bahn,German Railways
+Dr = Doktor der,doctor
+LKW = Lastkraftwagen der,"HGV, lorry"
+Alter das,age
+Bart der,beard
+Einzelkind das,only child
+Freundschaft die,friendship
+fühlen (sich),to feel
+füttern,to feed
+geboren (am),born (on)
+Geburt die,birth
+gemein,mean
+gern haben,to like
+glücklich,happy
+Hochzeit die,wedding
+humorlos,"humourless, no sense of humour"
+Jugendliche der/die,youth
+Junge der,boy
+komisch,"funny, comical, strange, odd"
+leben,to live
+lebhaft,lively
+Leute (pl),people
+nerven,to get on someone’s nerves
+ordentlich,"tidy, neat"
+Spitzname der,nick name
+streng,strict
+Traum der,dream
+traurig,sad
+zusammen,together
+benutzen/benützen,to use
+beschreiben (sich),to describe (oneself)
+Daten (pl),data
+Gefahr die,danger
+Klingelton der,ringtone
+Netzwerk das,network
+peinlich,embarrassing
+Risiko das,risk
+Schutz der,protection
+soziale Medien (pl),social media
+teilen,to share
+Abenteuerfilm der,adventure film
+Ananas die,pineapple
+Blockflöte die,recorder
+Bratwurst die,fried sausage
+Durst der,thirst
+Ei das,egg
+fechten,to fence
+Federball der,badminton
+folgen,to follow
+Frikadelle die,"rissole, meat ball"
+Fruchtsaft der,fruit juice
+Hauptgericht das,main course
+holen,"to fetch, to get"
+Interesse haben an,to be interested in
+Jugendklub der,youth club
+Kartoffel die,potato
+Käse der,cheese
+kegeln,bowling (nine pin)
+lachen,to laugh
+lecker,tasty
+Nudeln (pl),"noodles, pasta"
+Obst das,fruit
+Saft der,juice
+Schach das,chess
+spannend,"exciting, thrilling"
+Suppe die,soup
+süß,sweet
+tauchen,to dive
+treffen (sich mit),to meet (someone)
+Vegetarier der,vegetarian
+wandern,"to hike, to walk"
+(Wiener) Schnitzel das,veal/pork cutlet (boneless)
+Wurst die,sausage
+danken,to thank
+Feier die,celebration
+feiern,to celebrate
+Fest das,"festival, celebration"
+Feuerwerk das,fireworks
+Karfreitag der,Good Friday
+Karneval der,carnival
+Muttertag der,Mother’s Day
+Neujahrstag der (1 Jan),New Year’s Day
+Ostern,Easter
+Umzug der,street procession
+Valentinstag der (14 Feb),St Valentine’s Day
+Weihnachten,Christmas
+1. (erste) Weihnachtstag der,Christmas Day
+2. (zweite) Weihnachtstag der,Boxing Day
+Apotheke die,pharmacy
+Bäckerei die,bakery
+baden,to have a bath
+Baum der,tree
+Berg der,mountain
+Buchhandlung die,book shop
+Dach das,roof
+Denkmal das,monument
+Ecke die,corner
+Einfamilienhaus das,detached house
+Einwohner der,inhabitant
+Elektrogeschäft das,shop for electrical goods
+Fabrik die,factory
+Feld das,field
+Friseur (salon) der,hairdresser’s
+Gegend die,"region, area"
+Hauptbahnhof der,main railway station
+Hauptstadt die,capital city
+Haushalt der,household
+Helm der,helmet
+Hochhaus das,high rise block of flats
+Juweliergeschäft das,jeweller’s
+kaputt,broken
+Kirchturm der,"church tower, spire"
+kochen,to cook
+Kreuzung die,crossroads
+Kühlschrank der,fridge
+Kunde der,customer
+Kunstgalerie die,art gallery
+Laden der,shop
+Land das,"land, countryside"
+Lebensmittelgeschäft das,grocer’s
+Licht das,light
+Marktplatz der,market place
+Mauer die,wall (outside)
+Mikrowelle die,microwave oven
+Nachbar der,neighbour
+Nachteil der,disadvantage
+Obst- und Gemüseladen der,green grocer’s
+Parkplatz der,parking place
+Pflanze die,plant
+Platz der,place; square
+Preis der,price
+S-Bahn die,suburban (fast) railway
+Vorort der,suburb
+Vorteil der,advantage
+Wand die,wall (inside)
+Warenhaus das,department store
+Altenheim das,old people's home
+Drogenhändler der,drug dealer
+Fett das,fat
+freiwillig,voluntarily
+Freiwillige der/die,volunteer
+gesund,healthy
+Gesundheit die,health
+helfen,to help
+Herz das,heart
+Hilfe die,help
+hilflos,helpless
+krank,ill
+Krankenhaus das,hospital
+Krankheit die,illness
+Krebs der,cancer
+rauchen,to smoke
+Rote Kreuz das,Red Cross
+spenden,to donate
+Tierheim das,animal shelter
+tot,dead
+alternative Energiequelle die,alternative source of energy
+Altpapier das,waste paper
+arbeitslos,unemployed
+arm,poor
+Armut die,poverty
+chemisch,chemical(ly)
+erfrieren,to freeze to death
+Fahrradweg der,bicycle track/lane
+fliehen,to flee
+Flüchtling der,refugee
+Kaugummi der,chewing gum
+Kohle die,coal
+Leben das,life
+Luft die,air
+Luftverschmutzung die,air pollution
+obdachlos,homeless
+schützen,to protect
+Suppenküche die,soup kitchen
+überbevölkert,over-populated
+Umwelt die,environment
+umweltfeindlich,environmentally hostile
+umweltfreundlich,environmentally friendly
+Verkehr der,traffic
+Verkehrsmittel das,means of transport
+weltweit,worldwide
+Asien,Asia
+Ausland das,"foreign country, abroad"
+erleben,to experience
+Flug der,flight
+Flughafen der,airport
+Küste die,coast
+München,Munich
+sonnen (sich),to sunbathe
+Strand der,beach
+Urlaub der,holiday
+Weg der,"way, path"
+Wien,Vienna
+Fremdsprache die,foreign language
+lehren,to teach
+faul,lazy
+Grundschule die,primary school
+Gymnasium das,grammar school
+Halle die,hall
+Krawatte die,tie
+Note die,"grade, mark"
+Prüfung die,exam
+Regel die,rule
+Schüler der,student
+Unterricht der,lessons; teaching
+unterrichten,to teach
+(Azubi) = Auszubildende der,"apprentice, trainee"
+arbeiten,to work
+Arbeitspraktikum das,work experience
+Berufsberater der,careers adviser
+Berufsschule die,vocational training school
+Brief der,letter
+Studium das,studies
+theoretisch,theoretical
+Ehe die,marriage
+leistungsstark,"powerful (battery, processor)"Honig der,honey
+Magermilch die,skimmed milk
+Grünanlage die,"green area, park"
+öffentliche Verkehrsmittel (pl),public transport
+abstinent,teetotal
+Entziehungskur die,rehab for drug addiction/alcoholism
+Süßigkeiten (pl),sweets
+Hauptverkehrszeit die,rush hour
+Rote Kreuz das,Red Cross
+Fremdsprachenassistent der,language assistant
+abwesend,absent

@@ -8,10 +8,10 @@ Gib (zwei) Details.,Give (two) details
 "Schreib R , wenn die Aussage richtig ist, F , wenn die Aussage falsch ist, NT , wenn die Aussage nicht im Text ist.","Write (R), if the statement is correct, (F), if the statement is false and (NT) , if the statement is not mentioned.
 Welche (sechs) Aussagen sind richtig?,Which (six) statements are correct
 Welche Antwort ist richtig?,Which answer is correct
-Du musst ungef�hr 40 W�rter auf Deutsch schreiben.,You must write approximately 40 words in German 
-Du musst ungef�hr 90 W�rter auf Deutsch schreiben. Scheib etwas �ber alle Punkte der Aufgabe.,You must write approximately 90 words in German . Write something about each bullet point
-Du musst ungef�hr 150 W�rter auf Deutsch schreiben. Schreib etwas �ber beide Punkte der Aufgabe.,You must write approximately 150 words in German . Write something about both bullet points
-Schreib vier S�tze auf Deutsch �ber das Foto.,Write four sentences in German about the photo
+Du musst ungefähr 40 Wörter auf Deutsch schreiben.,You must write approximately 40 words in German 
+Du musst ungefähr 90 Wörter auf Deutsch schreiben. Scheib etwas über alle Punkte der Aufgabe.,You must write approximately 90 words in German . Write something about each bullet point
+Du musst ungefähr 150 Wörter auf Deutsch schreiben. Schreib etwas über beide Punkte der Aufgabe.,You must write approximately 150 words in German . Write something about both bullet points
+Schreib vier Sätze auf Deutsch über das Foto.,Write four sentences in German about the photo
 gleich,"same, equal
 verschieden,different
 viel; mehr; am meisten,much; more; most
@@ -20,7 +20,7 @@ bis,"until, to"
 damit,"so that, in order that"
 denn,"as, since"
 nachdem,"after, afterwards"
-nicht nur ... sondern auch,not only � but also
+nicht nur ... sondern auch,not only ... but also
 seitdem,since
 sodass (so…dass),so ... that
 weder … noch,neither ... nor
@@ -89,3 +89,417 @@ Uhr die,"clock, watch, o’clock"
 Um wie viel Uhr?,"at what time, when?"
 Viertel das,quarter
 Wie viel Uhr ist es?,What time is it?
+ab und zu,now and again
+damals,"then, in those days"
+dauern,to last
+einmal,once
+endlich,finally
+erst,"(at) first, only"
+Mal das,time
+manchmal,sometimes
+morgen früh,tomorrow morning
+nachher,afterwards
+Nachmittag der,afternoon
+regelmäßig,regular
+schon,already
+seit,"since, for (length of time)"
+zu Ende sein,"to come to an end, to finish"
+außen,outside
+außerhalb,outside of
+da,"here, there"
+irgendwo,somewhere
+Meile die,mile
+nah,near
+nirgendwo,nowhere
+oben,"above, up"
+überall,everywhere
+vorwärts,forwards
+weg,away
+zurück,back
+alles,everything
+anderer/andere/anderes,"other, different"
+breit,"wide, broad"
+Dose die,"can, tin"
+einige,"some, a few"
+Größe die,size
+Karton der,cardboard box
+mittelgroß,medium-sized
+Päckchen das,small parcel
+Stück das,piece
+Kreis der,circle
+rund,round
+es blitzt,it’s lightning
+es donnert,it’s thundering
+heftig,"heavy, severe"
+schattig,shady
+Eingang der,entrance (building)
+offen,open
+Unrecht haben,to be wrong
+Leder das,leather
+Pappe die,cardboard
+Stoff der,material
+Wolle die,wool
+£ = Pfund das,£ = pound sterling
+gem. = gemischt,mixed
+altmodisch,old-fashioned
+ärgern (sich),to be annoyed
+auf die Nerven gehen,to get on one’s nerves
+auskommen (mit),to get on (with)
+aussehen,to look like
+berühmt,famous
+Besuch der,visit
+besuchen,to visit
+ehrlich,honest
+Enkelkind das,grandchild
+entschuldigen (sich),to apologise
+Familienmitglied das,member of the family
+Geburtsdatum das,date of birth
+geschieden,divorced
+Grund der,reason
+gut/schlecht gelaunt,good/bad tempered
+gute/schlechte Laune haben,to be in a good/bad mood
+hässlich,ugly
+heiraten,to marry
+hilfsbereit,helpful
+hübsch,pretty
+humorvoll,"humorous, witty"
+kennen,to know (a person)
+kennen lernen,to get to know
+ledig,single
+Ohr das,ear
+Persönlichkeit die,personality
+scheiden (sich lassen),to get divorced
+selbst,self
+selbstständig,independent
+Stief~,step ~
+Streit der,argument
+streiten (sich),"to quarrel, to argue"
+trennen (sich),to separate
+Typ der,"type, person, bloke"
+unternehmungslustig,"adventurous, like doing lots of things"
+Verhältnis das,relationship
+verheiratet,married
+verloben (sich),to get engaged
+Vorname der,first name
+vorstellen (sich),to introduce oneself
+zivile Partnerschaft die,civil partnership
+funktionieren,"to work, to function"
+gehören (zu),to belong (to)
+Medien (pl),media
+Missbrauch der,abuse
+missbrauchen,to abuse
+Netz das,net
+Punkt der,dot
+schicken,to send
+WLAN,WiFi/wifi
+amüsieren (sich),"to have fun, to enjoy oneself"
+Apfelsine die,orange
+Aprikose die,apricot
+Badeanzug der,swim suit
+Badehose die,swimming trunks
+bedienen,to serve
+durstig,thirsty
+Erdbeere die,strawberry
+Hallenbad das,indoor swimming pool
+hart,hard
+Himbeere die,raspberry
+Imbiss der,snack
+Kakao der,cocoa
+Keks der,biscuits
+Kirsche die,cherry
+klettern,to climb
+Leinwand die,(big) screen (in cinema)
+Liebesfilm der,film with a love story
+Lust haben etwas zu tun,to feel like doing something
+Mitglied das,member
+Nuss die,nut
+Praline die,chocolate (in a box of chocolates)
+Pute die,turkey
+Rechnung die,bill
+rennen,to run
+riechen,to smell
+Sahne die,cream
+sammeln,to collect
+scharf,"spicy, hot"
+schmecken,to taste
+Speisekarte die,menu
+Speisesaal der,"dining hall, dining room"
+Spinat der,spinach
+springen,to jump
+Stadion das,stadium
+Stehcafé das,small area with tables in a bakery or supermarket (but no seating)
+Trainingsschuh der,"sport shoe, trainers"
+Unterhaltung die,entertainment
+verlieren,to lose
+Volksmusik die,folk music
+Vorspeise die,starter (on menu)
+Zeichentrickfilm der,cartoon
+Zeitschrift die,magazine
+Zeitung die,newspaper
+Zeug das,"stuff, things, gear"
+ziehen,pull
+Aschermittwoch der,Ash Wednesday
+bekommen,"to get, to receive"
+Feiertag der,public holiday
+freuen (sich auf),to look forward to
+freuen (sich über),to be pleased about something
+Geschenk das,present
+Heiliger Abend (24 Dez),Christmas Eve
+Kerze die,candle
+Maifeiertag der,May Day
+Osterei das,Easter egg
+Sankt Nikolaus (Tag) (6 Dez),St Nicholas' Day
+schmücken,to decorate
+Silvester,New Year’s Eve
+Tag der Deutschen Einheit (3 Okt),Day of German Unity
+verkleiden (sich),"to dress up, to disguise oneself, to put on fancy dress"
+Weihnachtsbaum der,Christmas tree
+Weihnachtslieder (pl),Christmas carols
+anbieten,to offer
+ausgeben,to spend (money)
+Ausverkauf der,sale
+ausverkauft,sold out
+Backofen der,oven
+Badewanne die,bathtub
+Bauernhaus das,farm house
+Bauernhof der,farm
+Bürgersteig der,pavement
+Dachboden der,"attic, loft"
+Decke die,ceiling; blanket
+Doppelhaus das,semi-detached house
+Drogerie die,chemist’s
+einkaufen,to shop
+Fahrkarte die,ticket (eg for bus)
+Fleischerei die,butcher’s
+Fußgängerzone die,pedestrian precinct
+Gebäude das,building
+Hafen der,"harbour, port"
+Haltestelle die,"stop (bus, tram etc)"
+Heizung die,heating
+Kaufhaus das,department store
+Kleidergeschäft das,clothes shop
+Konditorei die,confectioner’s
+Kopfkissen das,pillow
+kostenlos,free of charge
+Landschaft die,landscape
+Löffel der,spoon
+Marke die,"brand, make"
+Metzgerei die,butcher’s
+Motorrad das,motor bike
+Sache die,thing; stuff
+Schrank der,cupboard
+Stadtrand der,outskirts of a town
+Straßenbahn die,tram
+Teelöffel der,teaspoon
+Tiefkühlschrank der,freezer
+Turm der,tower
+U-Bahn die,"underground train, tube"
+Wald der,"wood, forest"
+Waschbecken das,wash basin
+Wohnblock der,block of flats
+abnehmen,to lose weight
+anonym,anonymous
+atmen,breath
+aufgeben,to give up
+Ausländer der,foreigner
+ausländisch,foreign
+betrunken,"drunk, intoxicated"
+Droge die,drug
+Drogensüchtige der/die,drug addict
+entspannen (sich),to relax
+es geht mir gut/schlecht,"I am fine, well/not well"
+fettig,fatty
+fettleibig,obese
+Feuerwehr die,fire brigade
+gewinnen,to win
+Heim das,"home, hostel"
+Krankenwagen der,ambulance
+Leber die,liver
+Preis der,prize
+Rat der,advice
+sterben,to die
+Verkehrsunfall der,traffic accident
+zunehmen,to put on weight
+Abfall der,"rubbish, waste"
+Abgase (pl),exhaust fumes
+aussterben,to die out
+bedrohen,to threaten
+Bevölkerung die,population
+biologisch,"biological, organic"
+Biomüll der,organic waste
+Brennstoff der,fuel
+FCKWs,CFCs
+gefährlich,dangerous
+Gesellschaft die,society
+heizen,to heat
+Heizung die,heating
+keinen festen Wohnsitz haben,to have no fixed abode
+Kraftwerk das,power station
+laut,noisy
+Müll der,"refuse, waste, rubbish"
+öffentlich,public(ly)
+reich,rich
+sauber,clean
+schmutzig,dirty
+Sonnenenergie die,solar energy
+Sozialhilfe die,income support
+Sozialwohnung die,council flat
+sparen,"to save, to conserve"
+stark,strong
+stehlen,to steal
+unterstützen,to support
+Unterstützung die,"support, help"
+Verbrauch der,consumption
+Verpackung die,packaging
+verschmutzen,to pollute
+Verschmutzung die,pollution
+Wasserverschmutzung die,water pollution
+Zuhause das,"home, house"
+abfahren,"to leave, to depart"
+abholen,"to collect, to pick up"
+ankommen,to arrive
+Ausflug der,"trip, excursion"
+Belgien,Belgium
+besichtigen,"to sightsee, to visit, to have a look"
+bleiben,to stay
+Boot das,boat
+Briefkasten der,letter box
+Campingplatz der,campsite
+Doppelzimmer das,double room
+Einzelzimmer das,single room
+Fahrkarte die,ticket
+Fahrpreis der,fare
+Flugzeug das,plane
+Formular das,form
+Fotoapparat der,camera
+Führung die,guided tour
+Gepäck das,luggage
+Halbpension die,half board
+Linie die,"line, number (tram, bus)"
+Meer das,sea
+Mittelmeer das,Mediterranean
+Mosel die,Moselle
+Passagier der,passenger
+Polen,Poland
+Reise die,"journey, trip, voyage"
+Reisebus der,coach
+reisen,to travel
+Reisende der/die,traveller
+Russland,Russia
+Schloss das,"castle, palace"
+See die,sea
+seekrank,sea sick
+sehenswert,worth seeing
+Sehenswürdigkeit die,"tourist attraction, sight"
+Sonnenbrand der,sunburn
+Sonnencreme die,suntan lotion
+Speisewagen der,"dining car, restaurant car (train)"
+übernachten,to stay overnight
+Übernachtung die,overnight stay
+Übernachtung mit Frühstück,B&B
+Vollpension die,full board
+warten (auf),to wait (for)
+wegfahren,"to leave, to travel away"
+Wohnwagen der,caravan
+Zweibettzimmer das,twin bed room
+Direktor der,"headteacher, principal"
+Fach das,subject
+Schulfach das,school subject
+Schulleiter der,"headteacher, principal"
+Werken,DT
+1 = sehr gut,very good
+2 = gut,good
+3 = befriedigend,"satisfactory, fair"
+4 = ausreichend,"sufficient, pass (just)"
+Anzug der,suit
+Bluse die,blouse
+Erfolg der,success
+erfolgreich,successful
+erklären,to explain
+fleißig,"hard working, industrious"
+Frage die,question
+fragen,to ask
+Hauptschule die,secondary school
+Klassenarbeit die,test
+Labor das,laboratory
+Lehrerzimmer das,staff room
+Mittagspause die,lunch break
+Notendruck der,pressure to achieve good marks/grades
+Pause die,break
+rasieren (sich),to shave
+Raum der,room
+Realschule die,secondary school
+Sekretariat das,"office (school), reception"
+Sprachlabor das,language lab
+Turnhalle die,sports hall
+waschen (sich),to have a wash
+zuhören,to listen
+Abitur das,A-level equivalent
+Abiturient der,person doing the Abitur
+Ausbildung die,"(job) training, education"
+Chef der,boss
+fertig,"ready, done"
+Kollege der,colleague
+Kurs der,course
+Lohn der,wage
+Mindestlohn der,minimum wage
+Nebenjob der,part-time job
+Oberstufe die,equivalent to sixth-form
+Rat der,advice
+Semester das,term
+Studienplatz der,university place
+Bekannte der/die,"acquaintance, friend"
+Beziehung die,relationship
+Braut die,bride
+Bräutigam der,groom
+einen (guten) Sinn für Humor haben,to have a (good) sense of humour
+lebhaft,lively
+leiden,to suffer
+miteinander,"with one another, together"
+Schulter die,shoulder
+Verwandte der/die,relative
+Verwandtschaft die,relations (pl); relatives (pl)
+Anwendungen (pl),applications
+Einstellungen (pl),settings
+Sicherheit die,safety
+Bergsteigen das,mountain climbing
+ermüdend,tiring
+Flimmerkiste die,"TV, box, telly"
+Geige die,violin
+hausgemacht,home made
+Leichtathletik die,athletics
+Schlagzeug das,"percussion, drums"
+Überraschung die,surprise
+würzig,spicy
+Aprilscherz der,April fool’s trick
+Gastfreundschaft die,hospitality
+Tag der Arbeit (1 Mai),May Day
+Abstellraum der,storeroom
+gratis,free of charge
+preiswert,"good value for money, cheap"
+Rabatt der,discount
+Sackgasse die,cul-de-sac
+Sparkasse die,(savings) bank
+Stadtteil der,part of the town
+Stadtviertel das,"district, part of the town"
+Atem der,breath
+Drogenberatungsstelle die,advice centre for drug addicts
+einatmen,to breathe in
+Rassist der,racist
+Überdosis die,overdose
+Abholzung die,deforestation
+Auspuffgase (pl),exhaust fumes
+menschlich,"human, humane"
+Obdachlosenheim das,hostel for homeless people
+verschwenden,to waste
+Andenken das,"souvenir, memento"
+entdecken,to discover
+Fahrradverleih der,bicycle hire
+Genf,Geneva
+beantworten,to answer
+eine Frage stellen,to ask a question
+Gang der,corridor
+Leistung die,achievement
+Wahlfach das,optional subject
+Arbeitgeber der,employer
+Besprechung die,"meeting, discussion"
